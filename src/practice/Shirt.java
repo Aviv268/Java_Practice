@@ -9,11 +9,7 @@ class Shirt{
         System.out.println("Shirt is on!");
     }
 
-    Shirt(){
-        System.out.println("shirts all over");
 
-
-    }
 }
 
 class Main{
