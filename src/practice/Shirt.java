@@ -9,20 +9,10 @@ class Shirt{
         System.out.println("Shirt is on!");
     }
 
-    public String getColor() {
-        return color;
-    }
+    Shirt(){
+        System.out.println("shirts all over");
 
-    public void setColor(String color) {
-        this.color = color;
-    }
 
-    public char getSize() {
-        return size;
-    }
-
-    public void setSize(char size) {
-        this.size = size;
     }
 }
 
